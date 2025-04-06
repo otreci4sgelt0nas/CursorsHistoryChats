@@ -2,7 +2,7 @@
 
 A simple, lightweight utility for searching through your Cursor AI chat history across all workspaces.
 
-![Cursor Chat Search Banner](https://raw.githubusercontent.com/username/CursorsHistoryChats/main/assets/banner.png)
+![Cursor Chat Search Banner](https://raw.githubusercontent.com/otreci4sgelt0nas/CursorsHistoryChats/main/assets/banner.png)
 
 ## 🌟 Features
 
@@ -106,7 +106,6 @@ For more detailed information, see the `docs/cursor_chat_reference.md` file whic
 
 ## 🔄 Compatibility
 
-- Tested on macOS (darwin 24.3.0)
 - Should work on most Unix-like systems
 - Windows users may need to adapt paths or use WSL
 

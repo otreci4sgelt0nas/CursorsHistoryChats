@@ -2,7 +2,7 @@
 
 A simple, lightweight utility for searching through your Cursor AI chat history across all workspaces.
 
-![Cursor Chat Search Banner](https://raw.githubusercontent.com/otreci4sgelt0nas/CursorsHistoryChats/main/assets/banner.png)
+![Cursor Chat Search Banner](https://raw.githubusercontent.com/otreci4sgelt0nas/CursorsHistoryChats/main/assets/banner.svg)
 
 ## 🌟 Features
 
